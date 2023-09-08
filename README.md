@@ -1,3 +1,3 @@
 # SmartContactManager
-This is First Git Repository
+This is First Git Repository.
 Author- Dipu Kumar
